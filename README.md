@@ -1,6 +1,6 @@
 <meta charset="utf-8"> <strong>로봇기계공학과<strong> <u>최혜영<u>
 <br>
-<img src = "http://blogfiles.naver.net/20160418_264/dbrtjdwowkd_14609466116430A07A_PNG/43.png" width = 20%>
+<img src = "http://blogfiles.naver.net/20160418_264/dbrtjdwowkd_14609466116430A07A_PNG/43.png" width = "20%">
 
    <h3><a href = "http://www.yu.ac.kr/_korean/main/index.php" target = "_blank" title = "영남대학교">1. 영남대학교</a><h3>
    <h3><a href s= "http://robotics.yu.ac.kr/" target = "_blank" title = "로봇기계공학과">2. 학과홈페이지</a><h3>
