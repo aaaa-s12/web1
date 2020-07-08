@@ -49,7 +49,7 @@
 
 
   <meta charset="utf-8">
-  <br><img src = "http://blogfiles.naver.net/20160418_264/dbrtjdwowkd_14609466116430A07A_PNG/43.png" width = 30%>
+  <br><img src = "http://blogfiles.naver.net/20160418_264/dbrtjdwowkd_14609466116430A07A_PNG/43.png" width = "30%">
 
 <style>
   a {
